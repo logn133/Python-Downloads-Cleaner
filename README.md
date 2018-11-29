@@ -1,2 +1,2 @@
 # Python-Downloads-Cleaner
-Cleans
+Cleans and organizes the windows downloads folder.
