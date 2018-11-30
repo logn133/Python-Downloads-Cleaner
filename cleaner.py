@@ -1,4 +1,5 @@
 #Take all 'exe' files and put them into a labeled folder, remove any non picture file older than X days/weeks/months, put all pictures into a labeled folder
+#ToDo make the lists updatable, make the lists stored in a resource file to be parsed at startup
 import os
 #Initializing global vars
 requiredDirs = ["Programs", "Pictures"]
