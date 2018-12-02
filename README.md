@@ -1,9 +1,9 @@
 # Python-Downloads-Cleaner
 
-##Installation
+## Installation
 Take this script and run it with the task scheduler in windows.
 
-##Usage
+## Usage
 To edit the script how you like, set the boolean `debug` to True so no files will be moved or deleted when you run it(make sure you set this back to True when you're done so the script can actually work).
 ```Python
 debug = True
