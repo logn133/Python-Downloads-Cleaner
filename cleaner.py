@@ -65,16 +65,16 @@ def scanDir():
                 print("its a bat")
                 shutil.move(fullpath+filename, progPath)
             if extention in pictureFiles:
-                print("its a pic")   
+                print("its a pic")
                 shutil.move(fullpath+filename, picPath)
             if extention in imageFiles:
-                print("its an image file") 
+                print("its an image file")
                 shutil.move(fullpath+filename, isoPath)
             if extention in documentFiles:
                 print("its a document")
                 shutil.move(fullpath+filename, docPath)
-                
-    
+
+
 
 #Program
 dirCheck()
