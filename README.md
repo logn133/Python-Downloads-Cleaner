@@ -11,7 +11,7 @@ To edit the script how you like, set the boolean `debug` to True so no files wil
 ```Python
 debug = True
 ```
-The other main boolean is `keepOldFiles`, set this to true if you want to move all old files to a folder instead of deleting them.
+The other main boolean is `keepOldFiles`, set this to true if you want to move all old files to a folder called **OLD** instead of deleting them.
 ```Python
 keepOldFiles = True
 ```
@@ -34,3 +34,6 @@ requiredDirs = {"Programs":["exe","bat","msi"], "Pictures":["jpg","png","gif","b
 ```
 
 and Bob's your uncle, you're set!
+
+## ToDO
+1. Do not check for and create **OLD** directory
