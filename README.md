@@ -35,5 +35,5 @@ requiredDirs = {"Programs":["exe","bat","msi"], "Pictures":["jpg","png","gif","b
 
 and Bob's your uncle, you're set!
 
-## ToDO
+## ToDo
 1. Do not check for and create **OLD** directory
